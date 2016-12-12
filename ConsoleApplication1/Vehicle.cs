@@ -1,10 +1,10 @@
 ﻿/*
 	NAME	:	    Vehicle.cs
- *  PROJECT :       ConsoleApplication1
+    PROJECT :       ConsoleApplication1
 	Date	:	    23/09/2014
 	AUTHORS	:	    Manbir Singh + Alex Guerrero
- * 	DISCRIPTION :	This source file is where the abstract class for the vehicle is kept.
- * 	                All other classes inherit the attributes and behaviours of Vehicle.
+  	DISCRIPTION :	This source file is where the abstract class for the vehicle is kept.
+  	                All other classes inherit the attributes and behaviours of Vehicle.
 */
 
 using System;
@@ -50,7 +50,7 @@ namespace ConsoleApplication1
             currentValue = 0;
         }
 
-    
+
 
         //destructor
         ~Vehicle()
@@ -70,7 +70,7 @@ namespace ConsoleApplication1
         */
         public virtual float DepreciatedValue()
         {
-            
+
             return currentValue;
         }
 
@@ -98,7 +98,7 @@ namespace ConsoleApplication1
         //set and get MyManufacturers
         public string MyManufacturer
         {
-            get{ return manufacturer; }
+            get { return manufacturer; }
             set { manufacturer = value; }
         }
 
@@ -107,8 +107,8 @@ namespace ConsoleApplication1
         //set and get MyModel
         public string MyModel
         {
-            get{ return model; }
-            set{ model = value; }
+            get { return model; }
+            set { model = value; }
         }
 
 
@@ -116,8 +116,8 @@ namespace ConsoleApplication1
         //set and get MyModelYear
         public int MyModelYear
         {
-            get{ return modelYear; }
-            set{ modelYear = value; }
+            get { return modelYear; }
+            set { modelYear = value; }
         }
 
 
@@ -125,8 +125,8 @@ namespace ConsoleApplication1
         //set and get MyPurchaseDate
         public string MyPurchaseDate
         {
-            get{ return purchaseDate; }
-            set{ purchaseDate = value; }
+            get { return purchaseDate; }
+            set { purchaseDate = value; }
         }
 
 
@@ -134,8 +134,8 @@ namespace ConsoleApplication1
         //set and get MyInitialPurchasePrice
         public float MyInitialPurchasePrice
         {
-            get{ return initialPurchasePrice; }
-            set{ initialPurchasePrice = value; }
+            get { return initialPurchasePrice; }
+            set { initialPurchasePrice = value; }
         }
 
 
@@ -143,17 +143,17 @@ namespace ConsoleApplication1
         //set and get MyCurrentOdometerReading
         public int MyCurrentOdometerReading
         {
-            get{ return currentOdometerReading; }
-            set{ currentOdometerReading = value; }
+            get { return currentOdometerReading; }
+            set { currentOdometerReading = value; }
         }
 
 
 
         //set and get MyEngineSize
         public int MyEngineSize
-        { 
-            get{ return engineSize; }
-            set{ engineSize = value; }
+        {
+            get { return engineSize; }
+            set { engineSize = value; }
         }
     }
 }
