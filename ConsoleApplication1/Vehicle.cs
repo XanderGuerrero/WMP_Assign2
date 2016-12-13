@@ -3,7 +3,7 @@
     PROJECT :       ConsoleApplication1
 	Date	:	    23/09/2014
 	AUTHORS	:	    Manbir Singh + Alex Guerrero
-  	DISCRIPTION :	This source file is where the abstract class for the vehicle is kept.
+  	DESCRIPTION :	This source file is where the abstract class for the vehicle is kept.
   	                All other classes inherit the attributes and behaviours of Vehicle.
 */
 

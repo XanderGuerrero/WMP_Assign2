@@ -3,7 +3,7 @@
  *  PROJECT :       ConsoleApplication1
 	Date	:	    23/09/2014
 	AUTHORS	:	    Manbir Singh + Alex Guerrero
- * 	DISCRIPTION :	This sourse file contains the UserInterface class.
+ * 	DESCRIPTION :	This sourse file contains the UserInterface class.
  * 	                It contains the outputs that the user will see for ex. the menu options.
  * 	                The userInterFace class will also handle the communication of new entries
  * 	                to the system. It will ask the type of vhicle as well as all the data that

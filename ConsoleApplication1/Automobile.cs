@@ -3,7 +3,7 @@
  *  PROJECT :       ConsoleApplication1
 	Date	:	    23/09/2014
 	AUTHORS	:	    Manbir Singh + Alex Guerrero
- * 	DISCRIPTION :	This source file contains the class definition of automobile.
+ * 	DESCRIPTION :	This source file contains the class definition of automobile.
  * 	                It is a sub class that inherits from vehicle.
 */
 using System;

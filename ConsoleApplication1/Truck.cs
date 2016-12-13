@@ -3,7 +3,7 @@
     PROJECT :       ConsoleApplication1
 	Date	:	    23/09/2014
 	AUTHORS	:	    Manbir Singh + Alex Guerrero
-  	DISCRIPTION :	This source file contains the properties of the Truck.
+  	DESCRIPTION :	This source file contains the properties of the Truck.
   	                It inherits from vehicle.
 */
 using System;

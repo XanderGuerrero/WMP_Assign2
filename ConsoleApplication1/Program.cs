@@ -3,7 +3,7 @@
  *  PROJECT :       ConsoleApplication1
 	Date	:	    23/09/2014
 	AUTHORS	:	    Manbir Singh + Alex Guerrero
- * 	DISCRIPTION :	The main of the program. The program contains a database system(textfile)
+ * 	DESCRIPTION :	The main of the program. The program contains a database system(textfile)
  * 	                which a user can modify. The user can add a new type of vehicle,
  * 	                delete a vehicle, update the odometer, search for a type of vechicle and display all vehicles.
 */
